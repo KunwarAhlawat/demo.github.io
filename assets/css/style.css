@@ -1,0 +1,139 @@
+.html{
+    box-sizing: border-box;
+    font-size: 10px;
+}
+
+
+/* Style for Navigation */
+.navbar-nav>a{
+    color: #272727;
+}
+
+.navbar-nav>a.btn{
+    color: #25A5fB;
+    border: 1px solid #25A5fB ;
+}
+
+
+.navbar-nav>a:hover{
+    color: #25A5fB;
+}
+
+.download-app-btn-2{
+    background-color:#25A5fB ;
+    color: white;
+}
+.download-app-btn-2:hover{
+    background-color:#25A5fB ;
+    color: white;
+}
+
+.section1-container{
+   position: relative;
+}
+
+.section1-content{
+    position: absolute;
+    left: 10%;
+    top:18%;
+}
+
+.section1-mb-container{
+   position: relative;
+}
+
+
+.section1-mb-content{
+   position: absolute;
+   top:60%;
+   left: 0%;
+   width: 100%;
+}
+
+
+.section2-container{
+    position: relative;
+ }
+ 
+ .section2-content{
+     position: absolute;
+     left: 38%;
+     top:10%;
+ }
+
+ .section2-content-div1{
+    position: absolute;
+    left: 22%;
+    top:60%;
+ }
+
+ .section2-content-div1>p{
+    font-size: 14px;
+ }
+
+ .section2-content-div2{
+    position: absolute;
+    left: 44%;
+    top:60%;
+ }
+
+ .section2-content-div2>p{
+    font-size: 14px;
+ }
+
+ .section2-content-div3{
+    position: absolute;
+    left: 66%;
+    top:60%;
+ }
+
+ .section2-content-div3>p{
+    font-size: 14px;
+ }
+
+ 
+
+
+ .section3-container{
+    position: relative;
+ }
+ .section3-content{
+    position: absolute;
+    left: 63.5%;
+    top: 15%;
+
+ }
+
+ .section3-icon{
+    background-image: url('/image/section3-icon.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 49px;
+    width: 49px;
+ }
+
+ .section4-container{
+    position: relative;
+ }
+
+ .section4-content{
+    position: absolute;
+    left: 18%;
+    top: 15%;
+
+ }
+
+ .section4-content>ul{
+    list-style: none;
+ }
+
+ .section5-container{
+    position: relative;
+ }
+
+ .section5-content{
+    position: absolute;
+    left: 18%;
+    top: 50%;
+ }
+ 
