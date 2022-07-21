@@ -66,7 +66,7 @@ h4{
 
 .section1-container{
    position: relative;
-   height:500px
+   
 }
 
 .section1-content{
@@ -77,6 +77,7 @@ h4{
 
 .section1-mb-container{
    position: relative;
+   height:600px
 }
 
 
