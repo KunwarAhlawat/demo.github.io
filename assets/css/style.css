@@ -80,6 +80,9 @@ overflow: hidden;
     top:10%;
 }
 
+.section1-mb{
+ overflow: hidden;
+}
 .section1-mb-container{
    position: relative;
    /* height:10h0v */
