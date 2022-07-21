@@ -1,6 +1,6 @@
 .html{
     box-sizing: border-box;
-    font-size: 10px;
+    
 }
 
 
@@ -112,6 +112,8 @@
     width: 49px;
  }
 
+
+
  .section4-container{
     position: relative;
  }
@@ -135,5 +137,17 @@
     position: absolute;
     left: 18%;
     top: 50%;
+ }
+
+ .section5-container-mb{
+   position: relative;
+ }
+
+ .section5-content-mb{
+   position: absolute;
+   left:0%;
+   top:70%;
+   width: 100%;
+
  }
  
