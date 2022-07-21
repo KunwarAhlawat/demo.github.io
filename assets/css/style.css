@@ -151,7 +151,9 @@ h4{
  }
 
 
-
+.section-4{
+   background: linear-gradient(17.58deg, rgba(61, 154, 217, 0.23) -7.37%, rgba(228, 33, 40, 0.01) 67.95%);
+}
  .section4-container{
    
 
@@ -167,6 +169,10 @@ h4{
 
  .section4-content>ul{
     list-style: none;
+ }
+
+ .section4-mb{
+   background: linear-gradient(17.58deg, rgba(61, 154, 217, 0.23) -7.37%, rgba(228, 33, 40, 0.01) 67.95%);
  }
 
  .section5-container{
