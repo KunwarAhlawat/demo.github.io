@@ -1,6 +1,4 @@
-html{
-   font-size: 16px;
-}
+
 *{
    font-family: 'Poppins', sans-serif;
    overflow-x: 0;
@@ -9,15 +7,15 @@ html{
    color: #3D9AD9;
 }
 
-.colour-text-light{
+.color-text-light{
    color: #757677;
 }
 
-.colour-text-dark{
+.color-text-dark{
    color: #272727;
 }
 
-.colour-text-light-2{
+.color-text-light-2{
    color: #6A6A6A;
 }
 
@@ -105,9 +103,7 @@ h4{
     top:60%;
  }
 
- .section2-content-div1>p{
-    font-size: 14px;
- }
+
 
  .section2-content-div2{
     position: absolute;
@@ -133,6 +129,7 @@ h4{
 
 
  .section3-container{
+  
     position: relative;
  }
  .section3-content{
@@ -153,6 +150,8 @@ h4{
 
 
  .section4-container{
+   
+
     position: relative;
  }
 
