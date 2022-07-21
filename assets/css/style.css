@@ -73,18 +73,18 @@ h4{
 .section1-content{
     position: absolute;
     left: 10%;
-    top:18%;
+    top:10%;
 }
 
 .section1-mb-container{
    position: relative;
-   height:600px
+   height:100vh
 }
 
 
 .section1-mb-content{
    position: absolute;
-   top:60%;
+   top:0%;
    left: 0%;
    width: 100%;
 }
